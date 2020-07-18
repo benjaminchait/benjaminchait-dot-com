@@ -1,0 +1,8 @@
+*.log
+_config.yml
+_site/
+.jekyll-cache/
+log/
+.bundle/
+node_modules/
+/vendor
